@@ -21,7 +21,8 @@ A extensão de arquivo comum para programas Assembly MIPS é ".s". Portanto, voc
 code meu_programa.s
 ```
 
-Obs.: Na pasta **codes** há um arquivo chamado "meu_programa.s" que imprime "Hello, World!" na tela usando a chamada de sistema print_string.
+| :warning: | Na pasta [codes](https://github.com/algorithmorphic/fac/codes/) há um arquivo chamado "meu_programa.s" que imprime "Hello, World!" na tela usando a chamada de sistema print_string. |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 3. Montagem e Execução do Programa:
 
@@ -33,6 +34,8 @@ spim -file meu_programa.s
 ```
 spim -f meu_programa.s
 ```
-Obs.: Tanto a opção **-file** quanto **-f** podem ser usadas para indicar que você deseja carregar um arquivo Assembly MIPS para a execução.
+
+| :warning: | Tanto a opção **-file** quanto **-f** podem ser usadas para indicar que você deseja carregar um arquivo Assembly MIPS para a execução. |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------- |
 
 Isso abrirá o SPIM e executará seu programa Assembly MIPS. Você verá a saída "Hello, World!" no console.

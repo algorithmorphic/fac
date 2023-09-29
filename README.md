@@ -21,7 +21,7 @@ A extensão de arquivo comum para programas Assembly MIPS é ".s". Portanto, voc
 code meu_programa.s
 ```
 
-| :warning: | Na pasta [codes](https://github.com/algorithmorphic/fac/codes/) há um arquivo chamado "meu_programa.s" que imprime "Hello, World!" na tela usando a chamada de sistema print_string. |
+| :warning: | Na pasta [codes](https://github.com/algorithmorphic/fac/tree/main/codes) há um arquivo chamado "meu_programa.s" que imprime "Hello, World!" na tela usando a chamada de sistema print_string. |
 | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 3. Montagem e Execução do Programa:

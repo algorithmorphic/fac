@@ -9,12 +9,6 @@ A **arquitetura de um computador** compreende o projeto estrutural de um computa
 3. Hardware.
 
 
-## Softwares de Aplicação
-
-## Softwares de Sistema
-
-## Hardware
-
 A representação da relação entre essas camadas pode ser visualizada da seguinte forma:
 
 ||
@@ -36,3 +30,9 @@ A arquitetura de um computador, definida em suas instruções, é chamada **Arqu
 - **RISC (Reduced Instruction Set Computer)**: Possui poucas instruções simples e no mesmo padrão.
 
 - **CISC (Complex Instruction Set Computer)**: Possui centenas de instruções em seu conjunto, capazes de executar uma grande diversidade de operações.
+
+|            | RISC | CISC |
+| :--------: | ---- | ---- |
+| Instruções | - menor quantidade;<br>- mais simples e padronzadas. | - maior quantidade;<br>- mais complexas. |
+| Projeto    | - centrado no software. | - centrado no hardware. |
+| Execução   | - executa direto no hardware com uso de controladora. | - a instrução é traduzida por um microprograma que pode consumir vários ciclos do processador. |

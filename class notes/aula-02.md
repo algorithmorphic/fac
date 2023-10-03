@@ -26,6 +26,7 @@ Todas as instruções aritméticas seguem este formato.
 | :--------------------- | ------------- | ------- | - | ------------------------------- |
 
 Registradores são unidades de memória de acesso imediato que ficam dentro do processador.
+
 Um processador MIPS de 32 bits possui 32 registradores em sua unidade principal que opera com **inteiros**.
 
 Os registradores disponíveis para uso são:

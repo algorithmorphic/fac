@@ -24,3 +24,6 @@ Todas as instruções aritméticas seguem este formato.
 
 | Quem são as variáveis? | Registradores | 32 bits | = | 4 bytes (tamanho de um inteiro) |
 | :--------------------- | ------------- | ------- | - | ------------------------------- |
+
+Registradores são unidades de memória de acesso imediato que ficam dentro do processador.
+Um processador MIPS de 32 bits
